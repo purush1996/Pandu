@@ -1,0 +1,14 @@
+
+working on basics 
+adding some changes to file1 to check fetch
+adding additional changes in txt1 file
+in remote repsitories to fetch that changes to local repo using FETCH
+<<<<<<< HEAD
+adding X=1
+
+now working on git merge x=5
+
+=======
+adding X=10
+>>>>>>> fet2
+
