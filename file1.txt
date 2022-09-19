@@ -3,6 +3,7 @@ working on basics
 adding some changes to file1 to check fetch
 adding additional changes in txt1 file
 in remote repsitories to fetch that changes to local repo using FETCH
+adding X=1
 
 now working on git merge x=5
 
